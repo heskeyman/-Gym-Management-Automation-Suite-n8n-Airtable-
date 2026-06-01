@@ -26,9 +26,6 @@ This repository contains three interconnected workflows:
 - **Communication:** Gmail / SMTP & Webhooks
 - **Testing:** Postman & cURL
 
-## 📸 Visuals
-*(Drag and drop your screenshots here so people can see the workflow logic immediately)*
-![Workflow Preview](assets/workflow-preview.png)
 
 ## 🚀 Quick Start
 1. Download any `*-workflow.json` file.
